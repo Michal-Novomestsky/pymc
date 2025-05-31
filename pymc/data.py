@@ -299,7 +299,7 @@ def Data(
     :meth:`pymc.Model.set_data`.
 
     When making predictions or doing posterior predictive sampling, the shape of the
-    registered data variable will most likely need to be changed.  If you encounter an
+    registered data variable will most likely need to be changed.  If you encounter a
     PyTensor shape mismatch error, refer to the documentation for
     :meth:`pymc.model.set_data`.
 
